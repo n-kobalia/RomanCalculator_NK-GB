@@ -48,7 +48,6 @@ void calculator()
 {
     bool done = false;
     string RomNum;
-    // string RomNum1;
     int result = 0;
     char op;
     char quit;
@@ -70,13 +69,6 @@ void calculator()
         {
             break;
         };
-
-        // cout << "Enter Roman Number2 or 0 to quit: ";
-        // cin >> RomNum1;
-
-        //  if (RomNum == "0"){
-        //     break;
-        // };
 
         switch (op)
         {
